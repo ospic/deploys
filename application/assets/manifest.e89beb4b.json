@@ -1,7 +1,6 @@
 {
   "name": "Ospic Hospital Management System",
   "short_name": "Ospic Hms",
-  "description": "Open source Hospital Management System",
   "icons": [
     {
       "src": "/webapp/assets/icons/icon_64x64.71a67c.png",
