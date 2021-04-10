@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{774:function(n,e,t){"use strict";t.r(e);var c={components:{pharmacy:t(757).default}},l=t(33),component=Object(l.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("pharmacy")}),[],!1,null,null,null);e.default=component.exports}}]);
