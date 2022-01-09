@@ -26,20 +26,6 @@
       "filters": [
         {
           "filterType": "ABI",
-          "value": "armeabi-v7a"
-        }
-      ],
-      "properties": [],
-      "versionCode": 1001,
-      "versionName": "1.0.0",
-      "enabled": true,
-      "outputFile": "app-armeabi-v7a-debug.apk"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
           "value": "x86_64"
         }
       ],
@@ -48,6 +34,20 @@
       "versionName": "1.0.0",
       "enabled": true,
       "outputFile": "app-x86_64-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "properties": [],
+      "versionCode": 1001,
+      "versionName": "1.0.0",
+      "enabled": true,
+      "outputFile": "app-armeabi-v7a-debug.apk"
     }
   ]
 }
